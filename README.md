@@ -1,3 +1,7 @@
+[![Python application test with Github Actions](https://github.com/okcodebase/cc_coursera/actions/workflows/main.yml/badge.svg)](https://github.com/okcodebase/cc_coursera/actions/workflows/main.yml)
+
+
+         
          ___        ______     ____ _                 _  ___  
         / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
        / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
