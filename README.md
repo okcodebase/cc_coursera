@@ -3,14 +3,21 @@
 Hi there! 
 
 # what i did so far
-- in aws cloud9
-         - create new virtual env
-         - clone remote repo
-         - make install
-         - make lint
-         - make test
-         - change hello.py
-         - commit and push changes to repo
-- in azure
-         - repeated the same steps
-- no i have my repo updated from two different cloud environments (aws cloud9, ms azure)  
+## in aws cloud9
+<ol>
+         <li>create new virtual env</li>
+         <li>clone remote repo</li>
+         <li>make install</li>
+         <li>make lint</li>
+         <li>make test</li>
+         <li>change hello.py</li>
+         <li>commit and push changes to repo</li>
+</ol>
+
+## in azure
+<ol>
+         <li>repeated the same steps</li>
+</ol>
+
+# what i got so far
+now i have my repo updated from two different cloud environments (aws cloud9, ms azure)  
