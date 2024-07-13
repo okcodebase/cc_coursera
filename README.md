@@ -1,18 +1,16 @@
 [![Python application test with Github Actions](https://github.com/okcodebase/cc_coursera/actions/workflows/main.yml/badge.svg)](https://github.com/okcodebase/cc_coursera/actions/workflows/main.yml)
 
+Hi there! 
 
-         
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
-
-
-Hi there! Welcome to AWS Cloud9!
-
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!
+# what i did so far
+- in aws cloud9
+         - create new virtual env
+         - clone remote repo
+         - make install
+         - make lint
+         - make test
+         - change hello.py
+         - commit and push changes to repo
+- in azure
+         - repeated the same steps
+- no i have my repo updated from two different cloud environments (aws cloud9, ms azure)  
